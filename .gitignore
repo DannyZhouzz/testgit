@@ -1,0 +1,20 @@
+﻿# 忽略 $GEN$/ 文件夹下的所有文件
+$GEN$/
+
+# 忽略 Export/ 文件夹下的所有文件
+Export/
+
+# 忽略 temp/ 文件夹下的所有文件
+temp/
+
+# 忽略 *.bak 的所有文件
+*.bak
+
+# 忽略 NDC8GLOBAL.HTML 文件
+NDC8GLOBAL.HTML
+
+# 忽略 inputFileList文件
+inputFileList
+
+# 忽略 html文件
+*.html
